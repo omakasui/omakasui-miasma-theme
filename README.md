@@ -20,7 +20,7 @@ omakub-theme-install https://github.com/Kasui92/omakub-miasma-theme
 
 ### Acknowledgments
 
-- [Omakub](https://omakub.org/) Opinionated Ubuntu Setup By [DHH](https://dhh.dk)
+- [Omakub](https://omakub.org/), Opinionated Ubuntu Setup by [DHH](https://dhh.dk)
 - Miasma palette by [xero](https://github.com/xero)
 - Miasma Theme for Omarchy by [OldJobobo](https://github.com/OldJobobo)
 
