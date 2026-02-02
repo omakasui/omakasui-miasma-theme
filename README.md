@@ -11,7 +11,7 @@ Dark, organic Miasma palette for [Omakube](https://omakube.omakasui.org/), with 
 Use the builtin installation script:
 
 ```bash
-omakub-theme-install https://github.com/Kasui92/omakub-miasma-theme
+omakub-theme-install https://github.com/omakasui/omakasui-miasma-theme
 ```
 
 ## Neovim note
